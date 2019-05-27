@@ -7,8 +7,8 @@ def second_challenge
   }
 
   #code your solution here!
-array = groceries[dairy].values + vegetable.values + meat.values + grains.values
-array
+groceries.values.flatten
+
   
 
 end
